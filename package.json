@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/AluR0d/Neni/issues"
   },
-  "homepage": "https://github.com/AluR0d/Neni#readme"
+  "homepage": "https://github.com/AluR0d/Neni#readme",
+  "dependencies": {
+    "serve": "^14.0.1"
+  }
 }
